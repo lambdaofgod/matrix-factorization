@@ -1,6 +1,6 @@
 # Matrix factorization for recommendations
 
-![](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/_images/glrm_matrix_decomposition.png)
+<img src="http://docs.h2o.ai/h2o/latest-stable/h2o-docs/_images/glrm_matrix_decomposition.png" height="138" width="419" >
 
 For introduction to matrix factorization in context of recommender systems see [this piece from IEEE](http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/ieeecomputer.pdf).
 
