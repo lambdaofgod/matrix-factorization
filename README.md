@@ -13,6 +13,7 @@ The project requires the following Python packages (I've checked with 3.5)
 * jupyter-notebook
 * numpy
 * pandas
+* seaborn
 * h2o
 
-Note that first three packages are by default available in Anaconda. 
+Note that first four packages are by default available in Anaconda. 
