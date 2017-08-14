@@ -16,4 +16,8 @@ The project requires the following Python packages (I've checked with 3.5)
 * seaborn
 * h2o
 
-Note that first four packages are by default available in Anaconda. 
+Note that first four packages are available in Anaconda by default. 
+
+## Usage
+See Makefile for loading and preparing data.
+For actual interesting stuff see *notebooks* folder.
